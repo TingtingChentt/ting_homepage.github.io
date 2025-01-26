@@ -7,21 +7,17 @@ My research interests are focusing on the intersection of AI and healthcare, esp
 
 Before the AI in neuroscience, I also have focused on the areas of computer vision and deep learning, and studied multi-modal fusion learning to explore potential correlation in multimodal data, and worked on efficient video analysis. I worked with multiple medical image domains, including colposcopy, cytology, radiology and pathology, and the goal is to apply computational methods to understand medical image semantics and detect abnormalities on them.
 
-
-
-
-# 🔥 News
+## 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-### 📝 Selected Publications 
+## 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[dFCExperts: Learning Dynamic Functional Connectivity Patterns with Modularity and State Experts](https://www.biorxiv.org/content/10.1101/2024.12.20.629773v1.abstract)
+**Tingting Chen**, Hongming Li, Hao Zheng, Jintai Chen, Yong Fan
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -30,23 +26,22 @@ Before the AI in neuroscience, I also have focused on the areas of computer visi
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+## 🎖 Honors and Awards
 - *2021.11* Outstanding Doctoral Student Scholarship (Top 3%)
-- *2021.10* CCF Science and Technology Progress Excellence Award (“Key Technology and Application of Medical Image Intelligent Segmentation” Program)
-- *2020.12* “New Technology Innovative Application” Excellent Case Award, The Colposcopy AI-Assisted Diagnosis System of Real Doctor AI Research Center
-- *2020.10* The Third Prize of “Digital Body” Challenge Intelligent Diagnosis Competition of Spinal Disease, Alibaba Group, Hangzhou, China
+- *2021.10* CCF科技进步二等奖
+- *2020.12* 浙江省“互联网+医疗健康”创新应用“新技术创 新应用”优秀案例奖
+- *2020.10* 天池 spark“数字人体”AI 挑战赛 — 脊柱疾病智能诊断 季军
 - *2019.11* Outstanding Doctoral Student Scholarship (Top 3%)
 - *2018.12* Outstanding Graduate
 - *2016.11* National Scholarship (Undergraduate) (Top 1%)
 - *2015.11* National Scholarship (Undergraduate) (Top 1%)
 - *2014.11* National Encouragement Scholarship (Undergraduate) (Top 1%)
 
-
-# 📖 Educations
+## 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+## 💬 Invited Talks
 - *2023.04*, Deep learning for cervical dysplasia diagnosis, @ University of Pennsylvania
 - *2023.03*, Deep learning for cervical dysplasia diagnosis, @ Stanford University
 - *2023.02*, Deep learning for cervical dysplasia diagnosis, @ Harvard Medical School 
@@ -54,7 +49,7 @@ Before the AI in neuroscience, I also have focused on the areas of computer visi
 - *2022.06*, ECG Synthesis for New View and New Data, @ HuaWei 
 - *2022.06*, ECG Synthesis for New View and New Data, @ HuaWei
 - 
-# 💻 Services
+## 💻 Services
 - Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, AAAI, IJCAI, CVPR, MICCAI, ISBI.
 - Review for Journals: TMI, MedIA, TCBB, JBHI
 
