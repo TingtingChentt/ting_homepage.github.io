@@ -1,11 +1,11 @@
 
 Hi, I'm Tingting Chen (陈婷婷), a postdoc researcher at the Center for Biomedical Image Computing and Analytics of University of Pennsylvania with Prof. Yong Fan.
 
-Prior to that, I graduated from the College of Computer Science and Technology at Zhejiang University with a Ph.D degree, advised by Prof. Jian Wu (吴健), and co-advised by Prof. Danny Chen (陈子仪). 
+Prior to that, I graduated from the College of Computer Science and Technology at Zhejiang University with a Ph.D. degree, advised by Prof. Jian Wu (吴健), and co-advised by Prof. Danny Chen (陈子仪). 
 
 My research interests are focusing on the intersection of AI and healthcare, especially on the neuroscience and fMRI analysis currently, developing generalizable fMRI foundation models and learning the correlation between brain activities and human behavior or brain disorders. 
 
-Before the AI in neuroscience, I also focused on the areas of computer vision and deep learning, and studied multi-modal fusion learning to explore potential correlation in multimodal data, and worked on efficient video analysis. I worked with multiple medical image domains, including colposcopy, cytology, radiology and pathology, and the goal is to apply computational methods to understand medical image semantics and detect abnormalities on them.
+Before the AI in neuroscience, I also have focused on the areas of computer vision and deep learning, and studied multi-modal fusion learning to explore potential correlation in multimodal data, and worked on efficient video analysis. I worked with multiple medical image domains, including colposcopy, cytology, radiology and pathology, and the goal is to apply computational methods to understand medical image semantics and detect abnormalities on them.
 
 
 
@@ -31,8 +31,9 @@ Before the AI in neuroscience, I also focused on the areas of computer vision an
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.11* Ph.D. Scholarship for Outstanding Posts![image](https://github.com/user-attachments/assets/cd5701f6-2ec0-40ac-967d-006995fbf579)
+ 
+- *2021.10*  
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
