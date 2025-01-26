@@ -8,18 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+Hi, I'm Tingting Chen (陈婷婷), a postdoc researcher at the Center for Biomedical Image Computing and Analytics of University of Pennsylvania with Prof. Yong Fan.
 
-<span class='anchor' id='about-me'></span>
+Prior to that, I graduated from the College of Computer Science and Technology at Zhejiang University with a Ph.D degree, advised by Prof. Jian Wu (吴健), and co-advised by Prof. Danny Chen (陈子仪). My research interests are focusing on the intersection of AI and healthcare, especially on the neuroscience and fMRI analysis currently, developing generalizable fMRI foundation models and learning the correlation between brain activities and human behavior or brain disorders. Before the AI in neuroscience, I also focused on the areas of computer vision and deep learning, and studied multi-modal fusion learning to explore potential correlation in multimodal data, and worked on efficient video analysis. I worked with multiple medical image domains, including colposcopy, cytology, radiology and pathology, and the goal is to apply computational methods to understand medical image semantics and detect abnormalities on them.
 
-Hi, I'm Tingting Chen, a postdoc researcher at the Center for Biomedical Image Computing and Analytics, University of Pennsylvania with Prof. Yong Fan and Prof.
-
-Prior to that, I have obtained my Ph.D. from the College of Computer Science and Technology at Zhejiang University, under the supervision of Prof. Jian Wu, and co-advisor by Prof. Danny Chen. My research interests lie at the intersection of AI and healthcare, with a particular focus on developing generalizable foundation models and generative models to address real-world medical challenges, including clinical trial optimization, biomedical discovery, clinical predictive modeling, and health monitoring.
 
 
 
